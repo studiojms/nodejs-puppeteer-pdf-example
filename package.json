@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-puppeteer-pdf-example",
+  "version": "1.0.0",
+  "description": "Create PDF using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiojms/nodejs-puppeteer-pdf-example.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "studiojms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studiojms/nodejs-puppeteer-pdf-example/issues"
+  },
+  "homepage": "https://github.com/studiojms/nodejs-puppeteer-pdf-example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^11.0.0"
+  }
+}
